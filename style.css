@@ -1,0 +1,9 @@
+.hero {
+  background: url('https://images.unsplash.com/photo-1509042239860-f550ce710b93') no-repeat center center/cover;
+  height: 100vh;
+  position: relative;
+  margin: 0; /* ✅ يشيل أي فراغ */
+  padding: 0;
+  background-repeat: no-repeat; /* ✅ الصورة متتكررش */
+  background-size: cover; /* ✅ تغطي الشاشة كاملة */
+}
